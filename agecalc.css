@@ -1,0 +1,20 @@
+.full{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20%;
+    background-color: beige;
+   
+}
+.btn{
+    width: 100px;
+    height: 70px;
+    background-color: aqua ;
+}
+.child1{
+display:flex;
+flex-direction: row;
+text-align: center;
+justify-content: center;
+gap: 120px;
+}
